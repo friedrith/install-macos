@@ -5,7 +5,7 @@ A list of steps to do when starting working on a new mac os.
 - Chrome
 - Brave
 - [Arc](https://arc.net/)
-- iTerm2 (with a hotkey window)
+- [Warp](https://www.warp.dev/) (activate the hot key window, deactivate AI, show the tab bar on hover only)
 - [Play/pause button](https://www.reddit.com/r/chrome/comments/be1eni/google_chrome_taking_control_of_media_keys/)
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) so the media keys only control spotify
 - [Spotify](https://spotify.com/)
